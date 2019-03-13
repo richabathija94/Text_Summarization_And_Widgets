@@ -1,1 +1,1 @@
-# Text_Summarization_Using_Widgets
+# Text_Summarization_And_Widgets
